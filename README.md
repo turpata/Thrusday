@@ -1,0 +1,2 @@
+# Thrusday
+repository practice
